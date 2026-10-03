@@ -1,0 +1,9 @@
+# 绝不提交游戏本体或其备份
+backup/
+*.exe
+*.orig
+# 运行产物
+lpshim-log.txt
+attach-log.txt
+*.dmp
+__pycache__/
